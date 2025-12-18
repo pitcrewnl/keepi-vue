@@ -47,7 +47,7 @@ const buildCommit: string = import.meta.env.VITE_APPLICATION_BUILD_COMMIT;
         Opmerkingen of suggesties? Laat
         <a
           class="text-gray-300"
-          href="https://github.com/TijmenUU/keepi-vue/issues"
+          href="https://github.com/pitcrewnl/keepi-vue/issues"
           >hier</a
         >
         je feedback achter.
